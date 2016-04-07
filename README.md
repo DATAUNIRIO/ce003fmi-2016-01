@@ -16,6 +16,8 @@ O site é todo construído usando apenas o [R Markdown][], por isso, o
 código fonte está nos arquivos `Rmd`. Para gerar o site você precisará
 das versões mais recentes dos pacotes `rmarkdown` e `knitr`.
 
+Teste.
+
 ### Licença
 
 O conteúdo deste repositório, das páginas, e do material da disciplina
